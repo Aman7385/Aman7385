@@ -1,21 +1,21 @@
-<h1 align="center">Hello,I am Aman Singh </h1>
+<h1 align="center">Hello,I am Aman Gupta </h1>
 
-<h4 align="center">Full Stack Web Developer | Software Developer | IET IT '24 </h4>
+<h4 align="center">Full Stack Web Developer | Software Developer | Wordpress Developer</h4>
 
 <br/>
 <p align="center"> 
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-s-20&show_icons=true&theme=aura"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman7385&show_icons=true&theme=aura"/>
 </p>
 
 <br/>
 
 <p align="center"> 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aman-s-20&theme=highcontrast"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Aman7385&theme=highcontrast"/>
 </p>
 
 <p align="center"> 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-s-20&layout=compact&theme=aura"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman7385&layout=compact&theme=aura"/>
 </p>
 
 <br/>
@@ -51,4 +51,4 @@
 
 ## 📞 Contact Me
 * Email Id: amansingh30008@gmail.com
-* LinkedIn : [Aman Singh](https://www.linkedin.com/in/amansingh3008/)
+* LinkedIn : [Aman Gupta](https://www.linkedin.com/in/aman-gupta-355b7a212/)
